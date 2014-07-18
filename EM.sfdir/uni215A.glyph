@@ -1,12 +1,12 @@
 StartChar: uni215A
 Encoding: 8538 8538 119
-Width: 1044
+Width: 1554
 VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
-Refer: 90 8309 N 1 0 0 1 0 0 0
-Refer: 101 8326 N 1 0 0 1 865 0 0
-Refer: 105 8260 N 1 0 0 1 450 0 0
+Refer: 90 8309 N 1 0 0 1 8 0 0
+Refer: 101 8326 N 1 0 0 1 873 0 0
+Refer: 105 8260 N 1 0 0 1 458 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 2 subtable" five fraction six
 EndChar

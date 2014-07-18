@@ -17,5 +17,6 @@ SplineSet
  421 1000 l 1,9,-1
  421 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "'sinf' Scientific Inferiors in Latin lookup 0 subtable" uni2081
 EndChar

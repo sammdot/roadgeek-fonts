@@ -25,5 +25,6 @@ SplineSet
  619 181 619 181 678 268 c 128,-1,22
  737 355 737 355 737 503 c 0,14,15
 EndSplineSet
+Validated: 1
 Substitution2: "'sinf' Scientific Inferiors in Latin lookup 0 subtable" uni2080
 EndChar
