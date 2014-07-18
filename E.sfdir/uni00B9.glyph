@@ -2,6 +2,7 @@ StartChar: uni00B9
 Encoding: 185 185 86
 AltUni2: 002071.ffffffff.0
 Width: 352
+VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore

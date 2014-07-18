@@ -1,6 +1,7 @@
 StartChar: nonmarkingreturn
 Encoding: 65537 -1 2
 Width: 870
+VWidth: 1754
 Flags: W
 LayerCount: 2
 EndChar

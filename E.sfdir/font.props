@@ -6,10 +6,10 @@ Weight: Book
 Copyright: Copyright (c) SammDOT. 2014. All Rights Reserved
 Version: 3.00 July 18, 2014
 ItalicAngle: 0
-UnderlinePosition: -243.23
-UnderlineWidth: 256.934
-Ascent: 1403
-Descent: 351
+UnderlinePosition: -243
+UnderlineWidth: 256
+Ascent: 1638
+Descent: 410
 sfntRevision: 0x00030000
 LayerCount: 2
 Layer: 0 1 "Back"  1
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1399885509
-ModificationTime: 1405709049
+ModificationTime: 1405716198
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -86,7 +86,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 6 8
+WinInfo: 144 6 8
 BeginPrivate: 0
 EndPrivate
 EndSplineFont
