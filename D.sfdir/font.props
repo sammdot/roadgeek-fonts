@@ -4,13 +4,13 @@ FullName: Roadgeek 2014 Series D
 FamilyName: Roadgeek 2014 Series D
 Weight: Book
 Copyright: Copyright (c) SammDOT. 2014. All Rights Reserved
-Version: 2.20 May 18, 2014
+Version: 3.00 July 18, 2014
 ItalicAngle: 0
-UnderlinePosition: -142
-UnderlineWidth: 150
-Ascent: 819
-Descent: 205
-sfntRevision: 0x00023333
+UnderlinePosition: -243
+UnderlineWidth: 256
+Ascent: 1638
+Descent: 410
+sfntRevision: 0x00030000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
@@ -20,36 +20,36 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1399850524
-ModificationTime: 1400444742
+ModificationTime: 1405716908
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 472
+LineGap: 808
 VLineGap: 0
 Panose: 2 0 5 0 0 0 0 0 0 0
-OS2TypoAscent: 595
+OS2TypoAscent: 1019
 OS2TypoAOffset: 0
-OS2TypoDescent: -174
+OS2TypoDescent: -298
 OS2TypoDOffset: 0
-OS2TypoLinegap: 120
-OS2WinAscent: 877
+OS2TypoLinegap: 206
+OS2WinAscent: 1502
 OS2WinAOffset: 0
-OS2WinDescent: 231
+OS2WinDescent: 396
 OS2WinDOffset: 0
-HheadAscent: 677
+HheadAscent: 1160
 HheadAOffset: 0
-HheadDescent: -231
+HheadDescent: -396
 HheadDOffset: 0
-OS2SubXSize: 1434
-OS2SubYSize: 1331
+OS2SubXSize: 2456
+OS2SubYSize: 2280
 OS2SubXOff: 0
-OS2SubYOff: 283
-OS2SupXSize: 1434
-OS2SupYSize: 1331
+OS2SubYOff: 485
+OS2SupXSize: 2456
+OS2SupYSize: 2280
 OS2SupXOff: 0
-OS2SupYOff: 977
-OS2StrikeYSize: 102
-OS2StrikeYPos: 530
+OS2SupYOff: 1673
+OS2StrikeYSize: 175
+OS2StrikeYPos: 908
 OS2Vendor: '    '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80000027.00000011.00000000.00000000
@@ -57,6 +57,7 @@ Lookup: 1 0 0 "'sinf' Scientific Inferiors in Latin lookup 0"  {"'sinf' Scientif
 Lookup: 1 0 0 "'frac' Diagonal Fractions in Latin lookup 1"  {"'frac' Diagonal Fractions in Latin lookup 1 subtable"  } ['frac' ('latn' <'dflt' > ) ]
 Lookup: 4 0 0 "'frac' Diagonal Fractions in Latin lookup 2"  {"'frac' Diagonal Fractions in Latin lookup 2 subtable"  } ['frac' ('latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 ShortTable: maxp 16
   1
@@ -79,10 +80,13 @@ EndShort
 LangName: 1033 "Copyright +AKkA SammDOT. 2014. All Rights Reserved" "" "Regular" "Roadgeek 2014 Series D:Version 2.20" "" "Version 2.20 May 18, 2014" "" "" "" "SammDOT" "Roadgeek 2014 is a set of typefaces replicating standard alphabets used on traffic signs." "" "http://g3sf.x10.mx/sammdot/" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 6 8
+WinInfo: 12 12 8
+BeginPrivate: 0
+EndPrivate
 EndSplineFont
