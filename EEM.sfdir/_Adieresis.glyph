@@ -1,0 +1,10 @@
+StartChar: Adieresis
+Encoding: 196 196 131
+Width: 1101
+VWidth: 1754
+Flags: W
+LayerCount: 2
+Fore
+Refer: 32 65 N 1 0 0 1 0 0 1
+Refer: 125 168 N 1 0 0 1 231 271 0
+EndChar
