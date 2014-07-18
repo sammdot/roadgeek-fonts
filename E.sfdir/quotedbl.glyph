@@ -1,0 +1,19 @@
+StartChar: quotedbl
+Encoding: 34 34 5
+Width: 446
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+371 584 m 1,0,-1
+ 354 350 l 1,1,-1
+ 276 350 l 1,2,-1
+ 258 584 l 1,3,-1
+ 371 584 l 1,0,-1
+188 584 m 1,4,-1
+ 170 350 l 1,5,-1
+ 94 350 l 1,6,-1
+ 76 584 l 1,7,-1
+ 188 584 l 1,4,-1
+EndSplineSet
+EndChar

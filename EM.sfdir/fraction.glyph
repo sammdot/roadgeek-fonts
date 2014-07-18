@@ -1,0 +1,15 @@
+StartChar: fraction
+Encoding: 8260 8260 105
+Width: 415
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+415 585 m 1,0,-1
+ 78 0 l 1,1,-1
+ 0 0 l 1,2,-1
+ 337 585 l 1,3,-1
+ 415 585 l 1,0,-1
+EndSplineSet
+Kerns2: 104 -124 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  103 -132 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  102 -62 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  101 -182 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  100 -116 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  99 -202 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  98 -128 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  97 -109 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  96 -105 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  95 -167 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

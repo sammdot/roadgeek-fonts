@@ -1,0 +1,26 @@
+StartChar: uni2074
+Encoding: 8308 8308 89
+Width: 243
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+211 292 m 1,0,-1
+ 191 292 l 1,1,-1
+ 191 195 l 1,2,-1
+ 142 195 l 1,3,-1
+ 142 292 l 1,4,-1
+ 19 292 l 1,5,-1
+ 19 344 l 1,6,-1
+ 138 584 l 1,7,-1
+ 191 584 l 1,8,-1
+ 191 338 l 1,9,-1
+ 211 338 l 1,10,-1
+ 211 292 l 1,0,-1
+142 338 m 1,11,-1
+ 142 490 l 1,12,-1
+ 68 338 l 1,13,-1
+ 142 338 l 1,11,-1
+EndSplineSet
+Kerns2: 105 -128 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

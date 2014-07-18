@@ -1,0 +1,11 @@
+StartChar: seveneighths
+Encoding: 8542 8542 123
+Width: 999
+Flags: W
+LayerCount: 2
+Fore
+Refer: 92 8311 N 1 0 0 1 55 0 0
+Refer: 103 8328 N 1 0 0 1 525 0 0
+Refer: 105 8260 N 1 0 0 1 259 0 0
+Ligature2: "'frac' Diagonal Fractions in Latin lookup 2 subtable" seven fraction eight
+EndChar
