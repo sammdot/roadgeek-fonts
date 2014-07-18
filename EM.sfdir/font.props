@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1399845377
-ModificationTime: 1405703890
+ModificationTime: 1405705502
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -80,12 +80,13 @@ EndShort
 LangName: 1033 "Copyright +AKkA SammDOT. 2014. All Rights Reserved" "" "Regular" "Roadgeek 2014 Series EM:Version 2.20" "" "Version 2.20 May 18, 2014" "" "" "" "SammDOT" "Roadgeek 2014 is a set of typefaces replicating standard alphabets used on traffic signs." "" "http://g3sf.x10.mx/sammdot/" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 48 12 3
+WinInfo: 0 12 3
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

@@ -1,16 +1,16 @@
 StartChar: hyphen
 Encoding: 45 45 15
 AltUni2: 0000ad.ffffffff.0
-Width: 411
+Width: 409
 VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-380 256 m 1,0,-1
- 31 256 l 1,1,-1
- 31 457 l 1,2,-1
- 380 457 l 1,3,-1
- 380 256 l 1,0,-1
+379 256 m 1,0,-1
+ 30 256 l 1,1,-1
+ 30 457 l 1,2,-1
+ 379 457 l 1,3,-1
+ 379 256 l 1,0,-1
 EndSplineSet
 EndChar
