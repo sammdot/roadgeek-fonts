@@ -1,9 +1,9 @@
 StartChar: Udieresis
 Encoding: 220 220 150
-Width: 622
+Width: 1065
 Flags: W
 LayerCount: 2
 Fore
 Refer: 52 85 N 1 0 0 1 0 0 1
-Refer: 125 168 N 1 0 0 1 126 158 0
+Refer: 125 168 N 1 0 0 1 216 271 0
 EndChar

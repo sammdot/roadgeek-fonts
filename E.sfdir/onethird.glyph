@@ -1,11 +1,11 @@
 StartChar: onethird
 Encoding: 8531 8531 112
-Width: 785
+Width: 1344
 Flags: W
 LayerCount: 2
 Fore
-Refer: 86 185 N 1 0 0 1 15 0 0
-Refer: 98 8323 N 1 0 0 1 391 0 0
-Refer: 105 8260 N 1 0 0 1 114 0 0
+Refer: 86 185 N 1 0 0 1 26 0 0
+Refer: 98 8323 N 1 0 0 1 670 0 0
+Refer: 105 8260 N 1 0 0 1 195 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 2 subtable" one fraction three
 EndChar

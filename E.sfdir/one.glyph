@@ -1,18 +1,18 @@
 StartChar: one
 Encoding: 49 49 19
-Width: 309
+Width: 529
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-233 0 m 1,0,-1
- 133 0 l 1,1,-1
- 133 436 l 1,2,-1
- 59 436 l 1,3,-1
- 57 520 l 1,4,5
- 119 534 119 534 150 584 c 1,6,-1
- 233 584 l 1,7,-1
- 233 0 l 1,0,-1
+399 0 m 1,0,-1
+ 228 0 l 1,1,-1
+ 228 747 l 1,2,-1
+ 101 747 l 1,3,-1
+ 98 891 l 1,4,5
+ 204 915 204 915 257 1000 c 1,6,-1
+ 399 1000 l 1,7,-1
+ 399 0 l 1,0,-1
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors in Latin lookup 0 subtable" uni2081
 EndChar
