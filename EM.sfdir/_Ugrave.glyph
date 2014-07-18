@@ -1,9 +1,10 @@
 StartChar: Ugrave
 Encoding: 217 217 147
-Width: 634
+Width: 1081
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 Refer: 52 85 N 1 0 0 1 0 0 1
-Refer: 124 96 N 1 0 0 1 210 158 0
+Refer: 124 96 N 1 0 0 1 358 270 0
 EndChar

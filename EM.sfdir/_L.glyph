@@ -1,16 +1,17 @@
 StartChar: L
 Encoding: 76 76 43
-Width: 526
+Width: 897
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-516 0 m 1,0,-1
- 82 0 l 1,1,-1
- 82 586 l 1,2,-1
- 197 586 l 1,3,-1
- 197 111 l 1,4,-1
- 516 111 l 1,5,-1
- 516 0 l 1,0,-1
+880 0 m 1,0,-1
+ 140 0 l 1,1,-1
+ 140 1000 l 1,2,-1
+ 336 1000 l 1,3,-1
+ 336 189 l 1,4,-1
+ 880 189 l 1,5,-1
+ 880 0 l 1,0,-1
 EndSplineSet
 EndChar

@@ -1,9 +1,10 @@
 StartChar: yacute
 Encoding: 253 253 176
-Width: 593
+Width: 1011
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 Refer: 82 121 N 1 0 0 1 0 0 1
-Refer: 126 180 N 1 0 0 1 164 0 0
+Refer: 126 180 N 1 0 0 1 280 0 0
 EndChar
