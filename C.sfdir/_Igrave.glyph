@@ -1,10 +1,10 @@
 StartChar: Igrave
 Encoding: 204 204 137
-Width: 359
+Width: 360
 VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 40 73 N 1 0 0 1 0 0 1
-Refer: 124 96 N 1 0 0 1 39 271 0
+Refer: 124 96 N 1 0 0 1 41 271 0
 EndChar
