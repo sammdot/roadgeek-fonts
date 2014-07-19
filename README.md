@@ -11,9 +11,9 @@ Roadgeek 2005  includes the US, UK and German sign typefaces; with Roadgeek
 
 ## Installation
 
-If you just want to use the fonts, you can download them directly from my site
-at [TODO: add site], extract the fonts from the archive and install them by
-your system's preferred installation method.
+If you just want to use the fonts, you can download a release from this repo,
+extract the fonts from the archive and install them by your system's preferred
+installation method.
 
 If you want to edit or contribute to the fonts, you can download the source
 code from this repository. The source is in FontForge's Spline Font Directory
