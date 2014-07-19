@@ -1,10 +1,10 @@
 StartChar: odieresis
 Encoding: 246 246 171
-Width: 957
+Width: 956
 VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 72 111 N 1 0 0 1 0 0 1
-Refer: 125 168 N 1 0 0 1 178 0 0
+Refer: 125 168 N 1 0 0 1 177 0 0
 EndChar

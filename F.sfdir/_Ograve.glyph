@@ -1,10 +1,10 @@
 StartChar: Ograve
 Encoding: 210 210 142
-Width: 1240
+Width: 1244
 VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 46 79 N 1 0 0 1 0 0 1
-Refer: 124 96 N 1 0 0 1 427 271 0
+Refer: 124 96 N 1 0 0 1 429 271 0
 EndChar

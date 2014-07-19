@@ -5,8 +5,8 @@ VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
-Refer: 92 8311 N 1 0 0 1 94 0 0
-Refer: 103 8328 N 1 0 0 1 899 0 0
-Refer: 105 8260 N 1 0 0 1 444 0 0
+Refer: 92 8311 N 1 0 0 1 93.791 0 0
+Refer: 103 8328 N 1 0 0 1 898.791 0 0
+Refer: 105 8260 N 1 0 0 1 443.791 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 2 subtable" seven fraction eight
 EndChar

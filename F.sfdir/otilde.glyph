@@ -1,10 +1,10 @@
 StartChar: otilde
 Encoding: 245 245 170
-Width: 957
+Width: 956
 VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 72 111 N 1 0 0 1 0 0 1
-Refer: 180 732 N 1 0 0 1 144 0 0
+Refer: 180 732 N 1 0 0 1 143 0 0
 EndChar
