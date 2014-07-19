@@ -1,9 +1,10 @@
 StartChar: ucircumflex
 Encoding: 251 251 174
-Width: 573
+Width: 981
+VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 78 117 N 1 0 0 1 0 0 1
-Refer: 179 710 N 1 0 0 1 74 0 0
+Refer: 179 710 N 1 0 0 1 127 0 0
 EndChar

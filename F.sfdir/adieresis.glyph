@@ -1,9 +1,10 @@
 StartChar: adieresis
 Encoding: 228 228 156
-Width: 559
+Width: 957
+VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 58 97 N 1 0 0 1 0 0 1
-Refer: 125 168 N 1 0 0 1 93 0 0
+Refer: 125 168 N 1 0 0 1 159 0 0
 EndChar
