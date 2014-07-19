@@ -1,0 +1,23 @@
+StartChar: seven
+Encoding: 55 55 25
+Width: 971
+VWidth: 1754
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+871 820 m 1,0,1
+ 782 736 782 736 761 702 c 1,2,3
+ 663 570 663 570 593 361 c 0,4,5
+ 542 203 542 203 537 0 c 1,6,-1
+ 358 0 l 1,7,8
+ 363 199 363 199 403 358 c 1,9,10
+ 454 548 454 548 547 699 c 0,11,12
+ 566 732 566 732 627 824 c 1,13,-1
+ 64 824 l 1,14,-1
+ 60 1000 l 1,15,-1
+ 871 1000 l 1,16,-1
+ 871 820 l 1,0,1
+EndSplineSet
+Substitution2: "'sinf' Scientific Inferiors in Latin lookup 0 subtable" uni2087
+EndChar

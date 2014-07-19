@@ -1,9 +1,11 @@
 StartChar: atilde
 Encoding: 227 227 155
-Width: 565
+Width: 969
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 Refer: 58 97 N 1 0 0 1 0 0 1
-Refer: 180 732 N 1 0 0 1 61 0 0
+Refer: 180 732 N 1 0 0 1 107 0 0
+Validated: 1
 EndChar

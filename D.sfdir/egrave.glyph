@@ -1,9 +1,10 @@
 StartChar: egrave
 Encoding: 232 232 158
-Width: 403
+Width: 693
+VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 62 101 N 1 0 0 1 0 0 1
-Refer: 124 96 N 1 0 0 1 114 0 0
+Refer: 124 96 N 1 0 0 1 195 0 0
 EndChar

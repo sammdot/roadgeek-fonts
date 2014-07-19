@@ -1,9 +1,11 @@
 StartChar: Uacute
 Encoding: 218 218 148
-Width: 634
+Width: 1083
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 Refer: 52 85 N 1 0 0 1 0 0 1
-Refer: 126 180 N 1 0 0 1 184 158 0
+Refer: 126 180 N 1 0 0 1 314 270 0
+Validated: 1
 EndChar

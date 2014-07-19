@@ -1,21 +1,22 @@
 StartChar: uni2077
 Encoding: 8311 8311 92
-Width: 241
+Width: 412
+VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-229 530 m 1,0,1
- 179 471 179 471 146 378 c 1,2,3
- 119 298 119 298 115 195 c 1,4,-1
- 60 195 l 1,5,-1
- 60 203 l 2,6,7
- 60 268 60 268 83 359 c 1,8,9
- 106 445 106 445 159 530 c 1,10,-1
- 12 530 l 1,11,-1
- 12 584 l 1,12,-1
- 229 584 l 1,13,-1
- 229 530 l 1,0,1
+392 908 m 1,0,1
+ 306 807 306 807 250 647 c 1,2,3
+ 204 510 204 510 197 334 c 1,4,-1
+ 103 334 l 1,5,-1
+ 103 348 l 2,6,7
+ 103 459 103 459 142 615 c 1,8,9
+ 181 762 181 762 272 908 c 1,10,-1
+ 21 908 l 1,11,-1
+ 21 1000 l 1,12,-1
+ 392 1000 l 1,13,-1
+ 392 908 l 1,0,1
 EndSplineSet
-Kerns2: 105 -184 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 105 -315 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar

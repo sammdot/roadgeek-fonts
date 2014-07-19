@@ -1,9 +1,10 @@
 StartChar: ydieresis
 Encoding: 255 255 177
-Width: 290
+Width: 500
+VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 82 121 N 1 0 0 1 0 0 1
-Refer: 125 168 N 1 0 0 1 8 0 0
+Refer: 125 168 N 1 0 0 1 13 0 0
 EndChar

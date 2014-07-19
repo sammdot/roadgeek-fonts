@@ -1,11 +1,13 @@
 StartChar: threequarters
 Encoding: 190 190 108
-Width: 612
+Width: 1044
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 Refer: 88 179 N 1 0 0 1 0 0 0
-Refer: 99 8324 N 1 0 0 1 454 0 0
-Refer: 105 8260 N 1 0 0 1 229 0 0
+Refer: 99 8324 N 1 0 0 1 775 0 0
+Refer: 105 8260 N 1 0 0 1 391 0 0
+Validated: 1
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 2 subtable" three fraction four
 EndChar

@@ -1,11 +1,12 @@
 StartChar: oneeighth
 Encoding: 8539 8539 120
-Width: 612
+Width: 1354
+VWidth: 1747
 Flags: W
 LayerCount: 2
 Fore
 Refer: 86 185 N 1 0 0 1 0 0 0
-Refer: 103 8328 N 1 0 0 1 394 0 0
-Refer: 105 8260 N 1 0 0 1 116 0 0
+Refer: 103 8328 N 1 0 0 1 672 0 0
+Refer: 105 8260 N 1 0 0 1 198 0 0
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 2 subtable" one fraction eight
 EndChar
