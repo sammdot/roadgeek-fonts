@@ -1,11 +1,11 @@
 StartChar: uni2150
 Encoding: 8528 8528 109
-Width: 1027
+Width: 1025
 VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
-Refer: 86 8305 N 1 0 0 1 48 0 0
-Refer: 102 8327 N 1 0 0 1 627 0 0
-Refer: 105 8260 N 1 0 0 1 108 0 0
+Refer: 86 8305 N 1 0 0 1 47.0391 0 0
+Refer: 102 8327 N 1 0 0 1 626.039 0 0
+Refer: 105 8260 N 1 0 0 1 107.039 0 0
 EndChar

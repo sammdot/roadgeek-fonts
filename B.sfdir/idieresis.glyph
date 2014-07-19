@@ -1,10 +1,10 @@
 StartChar: idieresis
 Encoding: 239 239 165
-Width: 289
+Width: 286
 VWidth: 1754
 Flags: W
 LayerCount: 2
 Fore
 Refer: 178 305 N 1 0 0 1 0 0 1
-Refer: 125 168 N 1 0 0 1 -92 0 0
+Refer: 125 168 N 1 0 0 1 -93 0 0
 EndChar
