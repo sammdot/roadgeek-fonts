@@ -1,4 +1,4 @@
-COMPILE=fontforge -c 'Open($1); Generate($2)'
+COMPILE=fontforge -lang ff -c 'Open($1); Generate($2)'
 
 all: RG2014B.ttf RG2014C.ttf RG2014D.ttf RG2014E.ttf \
 	RG2014EM.ttf RG2014EEM.ttf RG2014F.ttf
