@@ -25,7 +25,7 @@ provided for your convenience.
 Roadgeek 2014 includes the following typefaces:
 
 * **FHWA Series** (aka Highway Gothic) - used in the United States, Canada, 
-  Mexico, Australia, New Zealand, Indonesia, Malaysia and Taiwan. Available in
+  Mexico, Australia, New Zealand, Malaysia and Taiwan. Available in
   7 series: B, C, D, E, EM (E modified), EEM (Enhanced E modified), F. EM is
   E but with looser spacing and thicker strokes to accommodate reflective
   buttons; because the buttons are no longer widely used EEM undoes the thicker
@@ -34,9 +34,10 @@ Roadgeek 2014 includes the following typefaces:
 It will soon include:
 
 * **Clearview** - used in some parts of the United States, designed as a 
-  replacement of the FHWA Series typefaces. Available in 13 series: 1B through
-  6B  for negative contrast (dark on light) signs, 1W through 6W and 5WR for
-  positive contrast (light on dark) signs. 5WR is just 5W with tighter spacing.
+  replacement of the FHWA Series typefaces, and Indonesia. Available in 13
+  series: 1B through 6B  for negative contrast (dark on light) signs, 1W
+  through 6W and 5WR for positive contrast (light on dark) signs. 5WR is
+  just 5W with tighter spacing.
 * **DIN 1451** - German sign typeface. Available in 2 series: Engschrift and 
   Mittelschrift
 * **Transport** - UK sign typeface. Available in 2 weights: Medium for positive
