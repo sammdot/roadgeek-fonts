@@ -11,7 +11,7 @@ Roadgeek 2005  includes the US, UK and German sign typefaces; with Roadgeek
 
 ## Installation
 
-If you just want to use the fonts, you can download a release from this repo,
+If you just want to use the fonts, you can download [a release from this repo](https://github.com/sammdot/roadgeek-fonts/releases),
 extract the fonts from the archive and install them by your system's preferred
 installation method.
 
