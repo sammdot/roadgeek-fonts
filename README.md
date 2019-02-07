@@ -20,6 +20,9 @@ code from this repository. The source is in FontForge's Spline Font Directory
 (`.sfdir`) format, which needs to be compiled to a font file. A `Makefile` is
 provided for your convenience.
 
+On Debian based systems you can just run: `apt install fonts-roadgeek`
+See: https://repology.org/metapackage/fonts-roadgeek/versions
+
 ## Typefaces
 
 Roadgeek 2014 includes the following typefaces:
